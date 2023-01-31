@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===============================================================================================================================
 
-Front-end developer and UI UX Designer
+UI UX Designer with Front-end development projects
 --------------------------------------
 
 UX UI Designer offering 5+years of experience providing web solutions for diverse industry organizations. Skilled in designing and developing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with technical skills to excel as a Front-End Developer.
